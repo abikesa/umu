@@ -16,7 +16,7 @@
    - [dom::b7](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf)
    - [aug::#5](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf)
    - [sus::4](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf) 
-   - min::b3; [min7b5](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf)
+   - [min::b3](https://www.youtube.com/watch?v=0c58ppLPJcQ); [min7b5](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf)
    - [dim::bb7](https://github.com/abikesa/sheetmusic/blob/main/air/Air1.pdf)
      
 3. Genres
