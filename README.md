@@ -68,7 +68,11 @@
    - References, probabilities, aesthetics
 
 
-
+                 1. Verb
+                         \
+            2. Fruits -> 4. Cause -> 5. Means  -> 6. Strength
+                         /
+                          3. Will
 
 
 
