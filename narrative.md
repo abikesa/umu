@@ -6,7 +6,7 @@ Reappraising Ms. Umu's story through the lens of your philosophical approach enr
 
 3. **Cosmogonia (Diatonic - Explore):** Her exploratory phase, represented by the diatonic scale, sees her navigating through the challenges of loss, recovery, and professional setbacks. It's a liminal stage, where she begins to actively question and seek out her place in the world, facing the chaos and attempting to find order within it.
 
-4. **Dionysus (Chromatic - Skills):** The birth of her sons introduces a chromatic complexity to her life, adding emotional depth, joy, and the challenge of motherhood. This period is characterized by the development of new skills—navigating the emotional landscapes of love, loss, and the protective instinct of a mother. The chromatic scale here represents the richness and full spectrum of human emotion that she experiences.
+4. **Dionysus (Chromatic - Skills):** The birth of her sons introduces a chromatic complexity to her life, adding emotional depth, joy, and the challenge of motherhood. This period is characterized by the development of new skills—navigating the emotional landscapes of love, loss, and the protective instinct of a mother. The chromatic scale here represents the richness and `full spectrum of human emotion` that she experiences.
 
 5. **Prometheus (Temperament - Harmonics):** Her approach to ensuring her sons' comfort and security, while also instilling in them a sense of simplicity and stability (the triad), reflects her innovative and harmonious temperament. Like Prometheus bringing fire to humanity, she brings light and warmth to her family, shaping a future that harmonizes the lessons of her past with hopes for their future.
 
