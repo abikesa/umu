@@ -1,3 +1,5 @@
+# Umu
+
 - Ms. Umu's isn't a promise, its her tragically beautiful story of loss, recovery, ditto three times over from blood relative, to spouse, and her legal carrier (failure to pass the bar)
 - From exposure to 19th and 17ths harmonics in childhood; then to the 11th and 13th in early marriage (at first sight); and, to the "release" in form of her two sons (triad, 7th, and 9th)
 - But moving forward: securing comfort for her sons & ensuring they never go beyond the triad; and then identifying her story as that of the girl child and ultimately feminism?
