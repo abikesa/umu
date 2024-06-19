@@ -14,7 +14,7 @@
 1. Morpheus: Root - Aesthetic
 2. Hades: Pentatonic - Cognitive
 3. Cosmogonia: Diatonic - `Explore`
-4. Dionysus: Chromatic - Skills 
+4. [Dionysus](https://abikesa.github.io/zarathustra/): Chromatic - Skills 
 5. Prometheus: Temperament - Harmonics
 6. Athena: Expression - Growth
    
