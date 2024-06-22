@@ -38,7 +38,7 @@ But lets be clear, its true beauty that you'll wish to hit "repeat" on since the
 - unravel over time
 - becoming
 
-# Tayebwa
+# Other friends
 
 - SKM doesn't find TTs success "beautiful"
    - While there is a mystery to his initial financial success, one finds that it was opportunism rather than growth
