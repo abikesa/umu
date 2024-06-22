@@ -36,13 +36,15 @@ But lets be clear, its true beauty that you'll wish to hit "repeat" on since the
 
 - `la promesse` du bonheur
 - unravel over time
+- becoming
 
 # Tayebwa
 
-- Simeon doesn't find Tayebwa's success "beautiful"
+- SKM doesn't find TTs success "beautiful"
    - While there is a mystery to his initial financial success, one finds that it was opportunism rather than growth
-   - And its that opportunism that's followed through to the realm of politics
-   - One then asks: can't this "unravelling" be considered beautiful? Perhaps as beautiful as Rebecca, Jacob, and Laban! 
+   - And its that opportunism that's followed through to the realm of politics (a sort of reproducible, iterative opportunism)
+   - One then asks: can't this "unravelling" be considered beautiful? Perhaps as beautiful as Rebecca, Jacob, and Laban!
+   - But as an iterative phenomenon, there's no denying the merits of this "integrity"
 
 # Romeo
 
