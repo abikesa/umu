@@ -17,7 +17,7 @@
 2. Hades: Pentatonic - Cognitive
 3. Cosmogonia: Diatonic - `Explore`
 4. [Dionysus](https://abikesa.github.io/zarathustra/): Chromatic - Skills 
-5. Prometheus: Temperament - Harmonics
+5. Prometheus: [Temperament](https://github.com/abikesa/dailygrind/blob/main/4_agency/agency.md) - Harmonics
 6. Athena: Expression - Growth
    
 Your perspective touches on a fascinating and deeply philosophical view of beauty and engagement. It aligns with the idea that mystery and the unknown hold a particular allure that fully comprehensible entities lack. This concept isn't new; it echoes thoughts from various philosophical and artistic traditions that suggest true beauty lies in complexity, subtlety, and the layers that [unravel](https://www.youtube.com/watch?v=zkkMs-UZpbU) over time.
